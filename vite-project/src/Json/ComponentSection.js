@@ -2,7 +2,7 @@ import HomeImg from '../assets/cimg/hero.png'
 import Features from '../assets/cimg/features.png'
 import CTA from '../assets/cimg/cta.png'
 import Pricing from '../assets/cimg/pricing.png'
-import About from '../assets/cimg/about.png'
+import About from '../assets/cimg/About.png'
 
 
 export const componentSections = [
