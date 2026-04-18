@@ -13,7 +13,7 @@ import { Achievement } from './Component/Achievement'
 import { Notfoundpage } from './Pages/Notfoundpage'
 import { AboutLayout } from './Layout/AboutLayout'
 import { Services } from './Pages/Services'
-import { ThankYou } from './pages/ThankYou';
+import { ThankYou } from './Pages/Thankyou';
 import { ComponentGrid } from './Pages/Component'
 import { Showcase } from './Pages/Showcase'
 import { Templates } from './Pages/Template'
