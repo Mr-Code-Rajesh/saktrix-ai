@@ -1,0 +1,33 @@
+[
+    {
+      "category": "Frontend Developer",
+      "skills": [
+        "HTML5",
+        "CSS3",
+        "JavaScript",
+        "React",
+        "TailwindCSS",
+        "Git",
+        "GitHub",
+        "AI Prompts",
+        "UI Components",
+        "Bootstrap"
+      ]
+    },
+    {
+      "category": "Research Executive",
+      "skills": [
+        "AI Prompt Engineering",
+        "Secondary Research",
+        "Data Validation",
+        "Data Charts",
+        "Excel",
+        "MS Word",
+        "PowerPoint",
+        "Data Handling",
+        "ChatGPT",
+        "Website Scraping (Python)"
+      ]
+    }
+  ]
+  
