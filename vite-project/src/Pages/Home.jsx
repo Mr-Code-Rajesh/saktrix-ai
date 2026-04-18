@@ -10,7 +10,7 @@ import { SiTailwindcss, SiFramer } from 'react-icons/si';
 import AboutStartup from '../UIcomponent/Companies/About/AboutEight';
 import { RiArrowRightSLine } from "react-icons/ri";
 import { FeatureGrid } from '../Component/SaktrixHome/FeaturesGrid';
-import { ComponentGallery } from '../Component/SaktrixHome/GaleryPriview.Jsx';
+import { ComponentGallery } from '../Component/SaktrixHome/GaleryPriview.jsx';
 import { HowItWorks } from '../Component/SaktrixHome/HowItsWorks';
 import { StudentPricing } from '../Component/SaktrixHome/PricingStudent';
 import { DemoPricing } from '../Component/SaktrixHome/PricingCompany';
